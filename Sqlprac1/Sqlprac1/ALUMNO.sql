@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[ALUMNO]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
