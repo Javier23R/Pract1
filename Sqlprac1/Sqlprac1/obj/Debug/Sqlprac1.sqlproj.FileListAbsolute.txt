@@ -1,0 +1,10 @@
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\bin\Debug\Sqlprac1.dacpac
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\bin\Debug\Sqlprac1.dll
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\bin\Debug\Sqlprac1.pdb
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.sqlproj.AssemblyReference.cache
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Model.xml
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\refactor.xml
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\postdeploy.sql
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\predeploy.sql
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.dll
+D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.pdb
