@@ -28,5 +28,10 @@ namespace FormPract1
             con.Close();
  
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
