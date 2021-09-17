@@ -31,7 +31,24 @@ namespace FormPract1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            con.Open();
 
+            string query = "Select * from Alumno";
+            cmd = new SqlCommand(query, con);
+
+            //Set the SqlDataAdapter object
+            SqlDataAdapter dAdapter = new SqlDataAdapter(cmd);
+
+            //define dataset
+            DataSet ds = new DataSet();
+
+            //fill dataset with query results
+            dAdapter.Fill(ds);
+
+            dataGridView1.ReadOnly = true;
+            dataGridView1.DataSource = ds.Tables[0];
+
+            con.Close();
         }
     }
 }
