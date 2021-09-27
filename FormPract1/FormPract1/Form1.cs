@@ -25,7 +25,7 @@ namespace FormPract1
         {
             con.Open();
             MessageBox.Show("Conexion creada con exito!");
-            con.Close();
+           con.Close();
  
         }
 

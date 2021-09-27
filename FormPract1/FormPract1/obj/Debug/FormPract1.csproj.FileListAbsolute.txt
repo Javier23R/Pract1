@@ -8,3 +8,13 @@ D:\Udi\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.csproj.Ge
 D:\Udi\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.csproj.CoreCompileInputs.cache
 D:\Udi\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.exe
 D:\Udi\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.pdb
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\bin\Debug\FormPract1.exe.config
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\bin\Debug\FormPract1.exe
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\bin\Debug\FormPract1.pdb
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.csproj.AssemblyReference.cache
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.Form1.resources
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.Properties.Resources.resources
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.csproj.GenerateResource.cache
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.csproj.CoreCompileInputs.cache
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.exe
+C:\Users\JAVIER\Documents\UDI\Base de datos\Pract1\FormPract1\FormPract1\obj\Debug\FormPract1.pdb
