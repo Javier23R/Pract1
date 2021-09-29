@@ -68,5 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Sqlprac1.publish.xml" />
+    <None Include="Sqlprac1_1.publish.xml" />
   </ItemGroup>
 </Project>

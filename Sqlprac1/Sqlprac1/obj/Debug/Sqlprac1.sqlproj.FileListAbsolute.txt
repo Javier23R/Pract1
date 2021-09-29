@@ -8,3 +8,9 @@ D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\postdeploy.sql
 D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\predeploy.sql
 D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.dll
 D:\Udi\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.pdb
+D:\Documents\UDI\Base de datos\Pract1\Sqlprac1\Sqlprac1\bin\Debug\Sqlprac1.dacpac
+D:\Documents\UDI\Base de datos\Pract1\Sqlprac1\Sqlprac1\bin\Debug\Sqlprac1.dll
+D:\Documents\UDI\Base de datos\Pract1\Sqlprac1\Sqlprac1\bin\Debug\Sqlprac1.pdb
+D:\Documents\UDI\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.sqlproj.AssemblyReference.cache
+D:\Documents\UDI\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.dll
+D:\Documents\UDI\Base de datos\Pract1\Sqlprac1\Sqlprac1\obj\Debug\Sqlprac1.pdb
