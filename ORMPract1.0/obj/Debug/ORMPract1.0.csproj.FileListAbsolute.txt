@@ -1,0 +1,15 @@
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.csproj.AssemblyReference.cache
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1._0.Form1.resources
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1._0.Properties.Resources.resources
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.csproj.GenerateResource.cache
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.csproj.CoreCompileInputs.cache
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\ORMPract1.0.exe.config
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\ORMPract1.0.exe
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\ORMPract1.0.pdb
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.dll
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.xml
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.csproj.CopyComplete
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.exe
+D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.pdb
