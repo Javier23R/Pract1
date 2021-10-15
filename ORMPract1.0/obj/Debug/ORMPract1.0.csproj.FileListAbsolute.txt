@@ -10,6 +10,5 @@ D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.dll
 D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.SqlServer.dll
 D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.xml
 D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\bin\Debug\EntityFramework.SqlServer.xml
-D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.csproj.CopyComplete
 D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.exe
 D:\Documents\UDI\Base de datos\Pract1\ORMPract1.0\obj\Debug\ORMPract1.0.pdb
