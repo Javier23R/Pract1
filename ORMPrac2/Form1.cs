@@ -117,12 +117,6 @@ namespace ORMPrac2
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            indice++;
-            LLenar();
-        }
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -157,23 +151,40 @@ namespace ORMPrac2
 
                 for (int i = 0; i < iCustumers.Count; i++)
                 {
-                    cadena = cadena + iCustumers[i].CUST_CODE.ToString + " - " + iCustumers[i].CUST_NAME + ", ";
-                    
-                
-                }
-            
-            
-            
-            
-            
-            
-            }
+                    cadena = cadena + iCustumers[i].CUST_CODE.ToString() + " - " + iCustumers[i].CUST_NAME + ", ";
 
+                    List<Model.ORDERS> jOrder = new List<Model.ORDERS>();
+                    jOrder = oOrders.Where(a => a.AGENT_CODE == (int)oAgentes[indice].AGENT_CODE && a.CUST_CODE == (int)iCustumers[i].CUST_CODE).ToList();
+
+                    if (jOrder != null)
+                    {
+                        for (int j = 0; j < jOrder.Count; j++)
+
+                        {
+                            cadena2 = cadena2 + jOrder[j].ODER_NUM.ToString() + ", ";
+                        }
+                        
+                    }
+                }
+
+            }
+            textBox2.Text = cadena;
+            textBox3.Text = cadena2;
 
 
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            indice--;
+            Llenar();
+        }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            indice++;
+            Llenar();
+        }
     }
 
 }
