@@ -1,0 +1,10 @@
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\bin\Debug\BDMercamax.dacpac
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\bin\Debug\BDMercamax.dll
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\bin\Debug\BDMercamax.pdb
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\obj\Debug\Model.xml
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\obj\Debug\refactor.xml
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\obj\Debug\postdeploy.sql
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\obj\Debug\predeploy.sql
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\obj\Debug\BDMercamax.dll
+D:\Documents\UDI\Base de datos\Pract1\BDMercamax\obj\Debug\BDMercamax.pdb
