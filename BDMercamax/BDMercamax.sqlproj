@@ -66,6 +66,8 @@
     <Build Include="LugarStock.sql" />
     <Build Include="Venta.sql" />
     <Build Include="Cliente.sql" />
+    <Build Include="Login.sql" />
+    <Build Include="LoginCliente.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="BDMercamax.refactorlog" />
