@@ -1,6 +1,6 @@
 ﻿CREATE PROCEDURE [dbo].[VerPuntos]
-	@param1 int = 0,
-	@param2 int
+@user int
+	
 AS
-	SELECT @param1, @param2
+	SELECT puntos_acumulados FROM Cliente WHERE cc_cliente=@user
 RETURN 0
